@@ -1,6 +1,8 @@
 # luhn-checksum
 A simple function that calculates the Luhn checksum for a given number
 
+To use the program online, input your number at <https://www.jdoodle.com/embed/v0/5iAC?arg=0> to get the checksum.
+
 The checksum function uses the Luhn's algorithm created by Hans Peter Luhn, a German computer scientist at IBM, to calculate the checksum as follows:
 
 Step 1 - Double the value of every other digit from right to left (for example, see <https://en.wikipedia.org/wiki/Luhn_algorithm#Example_for_computing_check_digit>)
